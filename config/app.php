@@ -136,6 +136,7 @@ return [
         Illuminate\Translation\TranslationServiceProvider::class,
         Illuminate\Validation\ValidationServiceProvider::class,
         Illuminate\View\ViewServiceProvider::class,
+		    Illuminate\Html\HtmlServiceProvider::class,
 
         /*
          * Application Service Providers...
@@ -144,6 +145,10 @@ return [
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
 
+      /*
+		   * Debugbar
+		   */
+		   Barryvdh\Debugbar\ServiceProvider::class,
     ],
 
     /*
