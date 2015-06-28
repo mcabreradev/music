@@ -23,12 +23,10 @@ Route::get('auth/logout', 'Auth\AuthController@getLogout');
 // Registration routes...
 Route::get('auth/register', 'Auth\AuthController@getRegister');
 Route::post('auth/register', 'Auth\AuthController@postRegister');
-<<<<<<< HEAD
+
 
 //Enviando parámetro por url y en caso de estar vacío muestra 'nadie' 
 //desde cualquier método de envío
 Route::any('/hello/{name?}', function ($name = 'nadie') {		
     return 'Hola '.$name;
 });
-=======
->>>>>>> 0332452d3df6aba9fdd484634a2c31289b7430fd
