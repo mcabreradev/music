@@ -1,7 +1,8 @@
 repo_name: mcabreradev/music
 report_id: b9b773af6377a6903db974d2ae420367
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-14T15:29:38+00:00'
+timestamp: '2024-01-05T08:44:11+00:00'
 requested_by: Jomarmatos
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/mcabreradev/music
   detection_source: Repo Metadata
 - name: PHP
   description: A popular general-purpose scripting language that is especially suited
@@ -26,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
+  detection_source_url: https://github.com/mcabreradev/music
   detection_source: Repo Metadata
 - name: Bootstrap
   description: Simple and flexible HTML, CSS, and JS for popular UI components and
@@ -37,6 +40,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Front-End Frameworks
   image_url: https://img.stackshare.io/service/1101/C9QJ7V3X.png
+  detection_source_url: https://github.com/mcabreradev/music/blob/master/package.json
   detection_source: package.json
   last_updated_by: Miguelangel Cabrera
   last_updated_on: 2015-06-28 17:18:55.000000000 Z
@@ -49,7 +53,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/992/AcA2LnWL_400x400.jpg
-  detection_source_url: composer.lock
+  detection_source_url: https://github.com/mcabreradev/music/blob/master/composer.lock
   detection_source: composer.json
   last_updated_by: jomarjmm
   last_updated_on: 2015-06-28 19:58:07.000000000 Z
@@ -61,6 +65,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/mcabreradev/music
   detection_source: Repo Metadata
 - name: Laravel Elixir
   description: It provides a clean, fluent API for defining basic Gulp tasks for your
@@ -71,6 +76,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JS Build Tools / JS Task Runners
   image_url: https://img.stackshare.io/service/4588/0N0srAVN_400x400.jpg
+  detection_source_url: https://github.com/mcabreradev/music/blob/master/package.json
   detection_source: package.json
   last_updated_by: Miguelangel Cabrera
   last_updated_on: 2015-06-28 17:18:55.000000000 Z
@@ -84,7 +90,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/1616/1_WsEnddd5Y4EgEHsT054kUQ.jpeg
-  detection_source_url: composer.lock
+  detection_source_url: https://github.com/mcabreradev/music/blob/master/composer.lock
   detection_source: composer.json
   last_updated_by: Miguelangel Cabrera
   last_updated_on: 2015-06-28 17:18:55.000000000 Z
@@ -96,6 +102,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/3502/6b9dfb07681dee602dbdf75d9393f07c_400x400.png
+  detection_source_url: https://github.com/mcabreradev/music/blob/master/composer.json
   detection_source: composer.json
   last_updated_by: Miguelangel Cabrera
   last_updated_on: 2015-06-28 17:18:55.000000000 Z
@@ -109,7 +116,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JS Build Tools / JS Task Runners
   image_url: https://img.stackshare.io/service/844/iruTC031.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/mcabreradev/music/blob/master/package.json
   detection_source: package.json
   last_updated_by: Miguelangel Cabrera
   last_updated_on: 2015-06-28 17:18:55.000000000 Z
@@ -121,6 +128,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/mcabreradev/music/blob/master/package.json
   detection_source: package.json
   last_updated_by: Miguelangel Cabrera
   last_updated_on: 2015-06-28 17:18:55.000000000 Z
@@ -133,6 +141,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/mcabreradev/music
   detection_source: Repo Metadata
 - name: bootstrap-sass
   description: Bootstrap-sass is a Sass-powered version of Bootstrap 3
@@ -144,7 +153,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16915/default_e65289f03a07faa8d49ce16c483f18c4f8a98db9.png
-  detection_source_url: package.json
+  detection_source_url: https://github.com/mcabreradev/music/blob/master/package.json
   detection_source: package.json
   last_updated_by: Miguelangel Cabrera
   last_updated_on: 2015-06-28 17:18:55.000000000 Z
